@@ -1,0 +1,16 @@
+{
+  "started_at": "2026-11-17T22:09:48.727381+00:00",
+  "input_records": 100,
+  "merged_records": 0,
+  "exported_records": 25,
+  "sample_size_requested": 25,
+  "selection": "Descending evidence fit score; stable lead ID breaks ties",
+  "mode": "public_page_refresh",
+  "refresh_status_counts": {
+    "retrieved_review_required": 24,
+    "unavailable_review_required": 1
+  },
+  "not_attempted": 0,
+  "input_sha256": "19127e77838c59a787c05a0cb802a75203e949c0f86dc9d459fc202f528cbe1b",
+  "limitation": "Newly extracted contacts are review candidates. Reviewed fields and dates are never automatically promoted. Failed retrieval does not establish closure or invalidate prior evidence."
+}
