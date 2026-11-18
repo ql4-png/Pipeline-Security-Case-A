@@ -1,0 +1,443 @@
+[
+  {
+    "lead_id": "MD-009",
+    "url": "https://kihiczakmd.com/",
+    "attempted_at": "2026-11-17T22:09:48.727780+00:00",
+    "final_url": "https://kihiczakmd.com/",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "9799c095bdf09e237673227570455bb2c14e6fc3675f8d2d358a44062c0bc549",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "(212) 935-7700",
+      "212-935-7700"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-033",
+    "url": "https://www.nyderm.org/",
+    "attempted_at": "2026-11-17T22:09:51.148503+00:00",
+    "final_url": "https://www.nyderm.org/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "5b595e4856bb1e938778da32a73c96b68df9cf6c63086e4a4abc2a7a85d2a73b",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "EMAIL@NYDERM.ORG",
+      "email@nyderm.org"
+    ],
+    "candidate_phones": [
+      "(212) 570-2067"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": false
+  },
+  {
+    "lead_id": "MD-082",
+    "url": "https://dermatologyandlasergroup.com/contact-us/",
+    "attempted_at": "2026-11-17T22:09:53.062076+00:00",
+    "final_url": "https://dermatologyandlasergroup.com/contact-us/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "7a2eb9e2ab2a074388134d0df6ddcaaf19ee2f8cc0cac0f0fd09aa9f3a78521e",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "admin@dermatologyandlasergroup.com"
+    ],
+    "candidate_phones": [
+      "(212) 444-8204",
+      "+1-212-444-8204",
+      "212-444-8204"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-001",
+    "url": "https://orentreich.com/",
+    "attempted_at": "2026-11-17T22:09:54.783739+00:00",
+    "final_url": "https://orentreich.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "0047aea830d42f1fb24deef31c1fdbcd3a71a23076ef19ab02d98810ddcdc84e",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "212-794-0800"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-003",
+    "url": "https://tribecaskincenter.com/",
+    "attempted_at": "2026-11-17T22:09:58.451975+00:00",
+    "final_url": "https://tribecaskincenter.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "996db42b78df4d09601c963a3793de0fd96ca19451dc68ac97c9822c6e6f96db",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "(212) 320-0474",
+      "(212) 334-3774"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-013",
+    "url": "https://triparkderm.com/",
+    "attempted_at": "2026-11-17T22:10:02.733689+00:00",
+    "final_url": "https://triparkderm.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "6e9be84b6758cf6415b41669ffb01f1878a54044442827a5859f8265ff2291b5",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "tristin@adobillingservices.com"
+    ],
+    "candidate_phones": [
+      "(212) 374-9705",
+      "(212) 374-9750",
+      "718 845 2454",
+      "929 368 5558"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-016",
+    "url": "https://www.unionderm.com/unionderm-union-square/",
+    "attempted_at": "2026-11-17T22:10:04.542342+00:00",
+    "final_url": "https://www.unionderm.com/unionderm-union-square/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "4f5f865646ffd74a844de155d13bbaed1532afbbe3efbe36fc2e8568e8bb75ac",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "info@unionderm.com"
+    ],
+    "candidate_phones": [
+      "(212) 366-5400",
+      "212-366-5400",
+      "212.366.5400"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-018",
+    "url": "https://www.washingtonsqderm.com/appointments-patient-info/",
+    "attempted_at": "2026-11-17T22:10:06.426759+00:00",
+    "final_url": "https://www.washingtonsqderm.com/appointments-patient-info/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "bd019d0992bb9a723d0377ae7257718c518124732f3ab41822f369cc825463ab",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "(212) 256-1075",
+      "(866) 493-9161",
+      "212) 256-1075"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": false
+  },
+  {
+    "lead_id": "MD-020",
+    "url": "https://chelseaskincenter.com/contact-chelsea-skin-laser/",
+    "attempted_at": "2026-11-17T22:10:12.227252+00:00",
+    "final_url": "https://chelseaskincenter.com/contact-chelsea-skin-laser/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "b9924a5dddfaae5227da1ef98ea4b4d2cd658803fef7d31040c27bc57a3cb77a",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "212-675-0549"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-022",
+    "url": "https://idrissderm.com/contact/",
+    "attempted_at": "2026-11-17T22:10:19.049348+00:00",
+    "final_url": "https://idrissderm.com/contact/",
+    "content_type": "text/html",
+    "sha256": "18c6af718d407bad6388e932048531ab465eda327f957a3cced1f2f9cdfc472e",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "patients@idrissderm.com"
+    ],
+    "candidate_phones": [
+      "(212) 612-1520",
+      "212-612-1520"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-024",
+    "url": "https://www.mudgildermatology.com/",
+    "attempted_at": "2026-11-17T22:10:20.836099+00:00",
+    "final_url": "https://www.mudgildermatology.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "85f6ca12fa3a378a877823812fe1fdc1f5df2c1228dc094fdecf18b0469c31ea",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [],
+    "existing_email_seen": false,
+    "existing_phone_seen": false,
+    "existing_point_person_seen": false
+  },
+  {
+    "lead_id": "MD-031",
+    "url": "https://amyblewismd.com/contact-us/",
+    "attempted_at": "2026-11-17T22:10:23.646663+00:00",
+    "final_url": "https://amyblewismd.com/contact-us/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "a652af22953d5d4a132b51a6c07cd86a768978be8129c916c18d70f3e8513758",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "212-288-6133",
+      "917-352-0592"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": false
+  },
+  {
+    "lead_id": "MD-044",
+    "url": "https://www.upperwestsidedermatology.com/",
+    "attempted_at": "2026-11-17T22:10:25.758101+00:00",
+    "status": "unavailable_review_required",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "lead_id": "MD-045",
+    "url": "https://www.cpsderm.com/contactus",
+    "attempted_at": "2026-11-17T22:10:25.867911+00:00",
+    "final_url": "https://www.cpsderm.com/contactus",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "d4027e496059c051cddc02207e641d6c7aaebe00b32b8a3dee6ba2ce4ab3b0d3",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "office@cpsderm.com"
+    ],
+    "candidate_phones": [
+      "212-969-9655",
+      "212-969-9665"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": false
+  },
+  {
+    "lead_id": "MD-049",
+    "url": "https://www.dermatologistnewyork.org/contact/",
+    "attempted_at": "2026-11-17T22:10:28.267134+00:00",
+    "final_url": "https://www.dermatologistnewyork.org/contact/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "ddbcb0dc09b6d6c7d3505537857d38e4c6dd6cbbaaf6697f88b458689cb07b3c",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "(212) 683-6073",
+      "(212) 689-9587"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-054",
+    "url": "https://optiskinmedical.com/contact-us/",
+    "attempted_at": "2026-11-17T22:10:31.413950+00:00",
+    "final_url": "https://optiskinmedical.com/contact-us/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "730eb42a61f4a73bda2a1d578151356587da2300cbdfc6cb5346c3f3a86defb4",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "info@optiskinmedical.com"
+    ],
+    "candidate_phones": [
+      "212-828-3120"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": false
+  },
+  {
+    "lead_id": "MD-055",
+    "url": "https://www.completeskinmd.com/",
+    "attempted_at": "2026-11-17T22:10:34.085308+00:00",
+    "final_url": "https://www.completeskinmd.com/",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "a6e4b9079d758f48b7bbb71c4ce6c5180287819c869e1dc859cd69b6cd3727f9",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "contact@completeskinmd.com"
+    ],
+    "candidate_phones": [
+      "212.759.4900"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": false
+  },
+  {
+    "lead_id": "MD-004",
+    "url": "https://www.themanhattandermatologist.com/",
+    "attempted_at": "2026-11-17T22:10:36.058731+00:00",
+    "final_url": "https://www.themanhattandermatologist.com/",
+    "content_type": "text/html;charset=utf-8",
+    "sha256": "32c8fd9222c3235006a010950a7f29767b256c97ac3d0e0d9c5cf205fac98b80",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "TheManhattanDermatologist@gmail.com",
+      "themanhattandermatologist@gmail.com"
+    ],
+    "candidate_phones": [
+      "212-242-3066"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-014",
+    "url": "https://www.peterhalperinmd.com/",
+    "attempted_at": "2026-11-17T22:10:37.845178+00:00",
+    "final_url": "https://www.peterhalperinmd.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "70cd9da602cafcac6f09bcacec2754fb0d20457de105edc57b9cccc9a0a2b818",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "(212) 759-7447",
+      "212-759-7417",
+      "212-759-7447"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-085",
+    "url": "https://www.drcybelefishman.com/",
+    "attempted_at": "2026-11-17T22:10:42.674346+00:00",
+    "final_url": "https://www.drcybelefishman.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "0236e765f15c9fe487b3a7c82fffa4ffc1e989406c877bcf23796b8005fb43c8",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "917-634-4186"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-002",
+    "url": "https://kbdermatology.com/kbdermatology-contact",
+    "attempted_at": "2026-11-17T22:10:44.369930+00:00",
+    "final_url": "https://kbdermatology.com/kbdermatology-contact",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "cc42af3ce05276a638b40119bf7e53e2a62c9f744c009c5ae6360ee0eed3c3c9",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "info@kbdermatology.com"
+    ],
+    "candidate_phones": [
+      "(646) 718-3650"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-005",
+    "url": "https://www.feldermandermatology.com/contact/",
+    "attempted_at": "2026-11-17T22:10:46.180387+00:00",
+    "final_url": "https://www.feldermandermatology.com/contact/",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "e17a5b2579441509b3a137a1ccf101735ba7f92aaa47b22d211a5958e6af90e8",
+    "status": "retrieved_review_required",
+    "candidate_emails": [],
+    "candidate_phones": [
+      "212.734.0091",
+      "212.861.8456"
+    ],
+    "existing_email_seen": false,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-006",
+    "url": "https://drradhamikkilineni.com/pages/upper-east-side-dermatologist",
+    "attempted_at": "2026-11-17T22:10:52.298155+00:00",
+    "final_url": "https://drradhamikkilineni.com/pages/upper-east-side-dermatologist",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "04297870216e4966cc326575690065318fd1e173a1ee8d4fb553ceae55b74649",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "drm@rmdermmd.com"
+    ],
+    "candidate_phones": [
+      "212-517-6555",
+      "631-919-5087"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-007",
+    "url": "https://hellmandermatology.com/contact",
+    "attempted_at": "2026-11-17T22:10:54.371881+00:00",
+    "final_url": "https://hellmandermatology.com/contact",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "6318f361099104feace02f98f168497b36d6d707adb6d9c0431616586acd4799",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "office@hellmanderm.com"
+    ],
+    "candidate_phones": [
+      "(212) 751-0118",
+      "(212) 751-0577",
+      "212-751-0577",
+      "212.751.0577",
+      "813-798-7698",
+      "813.798.7698"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": true
+  },
+  {
+    "lead_id": "MD-008",
+    "url": "https://www.activedermnyc.com/contact",
+    "attempted_at": "2026-11-17T22:10:56.707078+00:00",
+    "final_url": "https://www.activedermnyc.com/contact",
+    "content_type": "text/html;charset=utf-8",
+    "sha256": "261ea843e2d914eca1832ee809f6699adacf74263cc930e6adc6a54fea550507",
+    "status": "retrieved_review_required",
+    "candidate_emails": [
+      "hello@activedermnyc.com"
+    ],
+    "candidate_phones": [
+      "(917) 540-8807"
+    ],
+    "existing_email_seen": true,
+    "existing_phone_seen": true,
+    "existing_point_person_seen": false
+  }
+]
